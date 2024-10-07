@@ -1,8 +1,8 @@
 {
   "savetext":"http://38.69.12.10:1049",
-  "merge":"http://45.137.198.99:1047",
-  "py":"http://45.137.198.99:1048",
-  "raw_dl":"http://45.137.198.99:1102",
-  "magayr_merge":"http://181.215.58.8:1786",
+  "merge":"http://38.69.12.10:1102:1047",
+  "py":"http://38.69.12.10:1102:1048",
+  "raw_dl":"http://38.69.12.10:1102:1102",
+  "magayr_merge":"http://38.69.12.10:1102:1786",
   "downloader":"https://throw-apis.onrender.com"
 }
