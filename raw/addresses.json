@@ -1,8 +1,8 @@
 {
   "savetext":"https://savetext.only-fans.club",
-  "merge":"http://38.22.104.155:1047",
-  "py":"http://38.22.104.155:1048",
-  "raw_dl":"http://38.22.104.155:1102",
+  "merge":"https://app.only-fans.club/merge",
+  "py":"https://app.only-fans.club/py",
+  "raw_dl":"https://app.only-fans.club/apis",
   "magayr_merge":"http://38.22.104.155:1786",
   "downloader":"https://throw-apis.onrender.com"
 }
