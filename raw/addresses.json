@@ -1,10 +1,9 @@
 {
-  "savetext":"https://savetext.only-fans.club",
-  "merge":"https://app.only-fans.club/merge",
-  "py":"https://app.only-fans.club/py",
-  "raw_dl":"https://app.only-fans.club/apis",
-  "yt":"https://app.only-fans.club/yt",
-  "megadl":"https://app.only-fans.club/megatron/cosmic/download",
-  "magayr_merge":"http://38.22.104.155:1786",
+  "savetext":"http://162.55.90.92:2325",
+  "merge":"http://162.55.90.92:4449/merge",
+  "py":"http://162.55.90.92:4449/py",
+  "raw_dl":"http://162.55.90.92:4449/apis",
+  "yt":"http://162.55.90.92:4449/yt",
+  "megadl":"http://162.55.90.92:4449/megatron/cosmic",
   "downloader":"https://throw-apis.onrender.com"
 }
