@@ -6,6 +6,6 @@
   "yt":"http://69.30.219.178:9334/yt",
   "megadl":"http://69.30.219.178:9334/megatron/cosmic",
   "cdn":"https://tanvir.is-a-cool.dev/cdn",
-  "ramadan": "http://69.30.219.178:9138/api/ramadan",
+  "ramadan": "http://193.149.164.168:4404/api/ramadan",
   "public":"http://69.30.219.178:9334/public"
 }
