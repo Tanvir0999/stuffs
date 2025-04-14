@@ -1,7 +1,7 @@
 {
   "main": "http://193.149.164.168:4070",
   "savetext":"http://193.149.164.141:9686",
-  "yt":"http://193.149.164.168:4070/yt",
+  "yt":"http://193.149.164.141:9334/yt",
   "megadl":"http://193.149.164.168:4070/megatron/cosmic",
   "ramadan": "http://193.149.164.168:4404/api/ramadan",
   "public":"http://193.149.164.141:9334/public"
