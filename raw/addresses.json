@@ -1,7 +1,7 @@
 {
-  "main": "https://app.only-fans.club",
-  "savetext":"https://savetext.only-fans.club",
-  "yt":"https://app.only-fans.club/yt",
-  "megadl":"https://app.only-fans.club/megatron/cosmic",
-  "public":"https://app.only-fans.club/public"
+  "main": "http://193.149.164.168:4070",
+  "savetext":"http://193.149.164.168:5599",
+  "yt":"http://193.149.164.168:4070/yt",
+  "megadl":"http://193.149.164.168:4070/megatron/cosmic",
+  "public":"http://193.149.164.168:4070/public"
 }
